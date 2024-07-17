@@ -8,7 +8,7 @@ pragma solidity 0.8.4;
 
 import './StandardToken.sol';
 import './LiquidityToken.sol';
-
+import './ { ethers } from 'ethers';
 /**
  * @dev Wrappers over Solidity's arithmetic operations with added overflow
  * checks.
